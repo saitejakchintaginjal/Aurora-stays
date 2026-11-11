@@ -5,3 +5,10 @@ __pycache__/
 .ipynb_checkpoints/
 huggingface/
 install.log
+_run*.ipynb
+_idx.json
+backend_files/huggingface/
+.deepeval/
+Data/
+run.log
+_cache/

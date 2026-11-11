@@ -16,3 +16,4 @@ requests==2.34.2
 ipykernel
 jupyterlab
 uv
+sentence-transformers==6.1.0
